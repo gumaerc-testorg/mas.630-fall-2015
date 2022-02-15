@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Final Project
+parent_type: CourseSection
 parent_uid: 3ff4d4c5-9272-62d6-3e1d-3c18ff020a67
 title: Presentations
 uid: 0b733ad3-4f93-c11c-ca5f-169ed245f989

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Final Project
+parent_type: CourseSection
 parent_uid: 3ff4d4c5-9272-62d6-3e1d-3c18ff020a67
 title: Written Report
 uid: 12918cc4-e09a-772c-b8f0-c9ea6f5adbac

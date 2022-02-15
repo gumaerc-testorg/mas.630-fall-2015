@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: db75387b-e404-28ec-2779-7629fa684c86
 title: Assignment 3
 uid: 4745da94-d8f7-59c3-5d35-c7ca2445bc52
