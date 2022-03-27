@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 777cede0-47d9-3091-8c4d-19f2747d785c
 resourcetype: Document
 title: MAS.630F15 Weeks 1-3
 uid: d12a5e32-8d12-7ead-2771-c212efeb1f14

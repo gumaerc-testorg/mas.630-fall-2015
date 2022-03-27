@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 777cede0-47d9-3091-8c4d-19f2747d785c
 resourcetype: Document
 title: MAS.630F15 Week 4 - Isen, Forgas, Mood++
 uid: f4f57ffa-457b-4c41-bd91-cda79d512777

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 777cede0-47d9-3091-8c4d-19f2747d785c
 resourcetype: Document
 title: MAS.630F15 Week 2  - Extra Slides on EDA and Arousal
 uid: 4d9896c3-e3cf-7c3e-0f35-eac6aa4d85db

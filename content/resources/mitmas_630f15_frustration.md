@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 777cede0-47d9-3091-8c4d-19f2747d785c
 resourcetype: Document
 title: MAS.630F15 Frustration, Empathy, and Relational Agents
 uid: 155f682d-08d2-b9ef-b01d-24b068e88c51

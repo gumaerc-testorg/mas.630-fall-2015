@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignment 8
 parent_type: CourseSection
+parent_uid: 287588c6-5191-7422-7320-c0f12d170078
 resourcetype: Document
 title: MAS.630F15 Affective Computing Ethical Discussions
 uid: 22ac0d70-15d4-49fa-3d82-80ab2751bec8
