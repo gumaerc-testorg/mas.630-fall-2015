@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
+parent_uid: null
 title: Final Project
 uid: 3ff4d4c5-9272-62d6-3e1d-3c18ff020a67
 ---

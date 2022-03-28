@@ -16,6 +16,7 @@ image_metadata:
   image-alt: A robot points into the distance as people look on in the foreground.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: mas-630f15-th.jpg
 uid: dafc18e0-1809-57a8-f3d4-b4fffa35bcc5

@@ -3,16 +3,17 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 777cede0-47d9-3091-8c4d-19f2747d785c
 ---
 
 Below are select lecture notes from this course.
 
-[Weeks 1–3 (PDF)]({{< baseurl >}}/resources/mitmas_630f15_weeks1-3)
+{{< resource_link d12a5e32-8d12-7ead-2771-c212efeb1f14 "Weeks 1–3 (PDF)" >}}
 
-[Week 2 - Extra Slides on EDA and Arousal (PDF - 1.7MB)]({{< baseurl >}}/resources/mitmas_630f15_week2)
+{{< resource_link 4d9896c3-e3cf-7c3e-0f35-eac6aa4d85db "Week 2 - Extra Slides on EDA and Arousal (PDF - 1.7MB)" >}}
 
-[Week 4 - Isen, Forgas, Mood++ (PDF)]({{< baseurl >}}/resources/mitmas_630f15_week4)
+{{< resource_link f4f57ffa-457b-4c41-bd91-cda79d512777 "Week 4 - Isen, Forgas, Mood++ (PDF)" >}}
 
-[Frustration, Empathy, and Relational Agents (PDF - 1.5MB)]({{< baseurl >}}/resources/mitmas_630f15_frustration)
+{{< resource_link 155f682d-08d2-b9ef-b01d-24b068e88c51 "Frustration, Empathy, and Relational Agents (PDF - 1.5MB)" >}}

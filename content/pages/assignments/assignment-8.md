@@ -15,7 +15,7 @@ This assignment has two parts:
 Part 1
 ------
 
-Fill out this [Form of Ethical Issues (PDF)]({{< baseurl >}}/resources/mitmas_630f15_ethical) choosing sides you'd be willing to argue. Prof. Picard will then make assignments and let you know which group you have been assigned.
+Fill out this {{< resource_link 22ac0d70-15d4-49fa-3d82-80ab2751bec8 "Form of Ethical Issues (PDF)" >}} choosing sides you'd be willing to argue. Prof. Picard will then make assignments and let you know which group you have been assigned.
 
 Part 2
 ------
