@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines on giving a presentation for the final
+  project of the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
