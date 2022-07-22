@@ -6,6 +6,7 @@ file: /courses/mas-630-affective-computing-fall-2015/d12a5e328d127ead2771c212efe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MAS.630F15 Weeks 1-3
 uid: d12a5e32-8d12-7ead-2771-c212efeb1f14
 ---
 This is a file that contains information regarding affective computing Weeks 1-3.
-

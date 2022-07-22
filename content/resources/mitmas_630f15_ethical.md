@@ -6,6 +6,7 @@ file: /courses/mas-630-affective-computing-fall-2015/22ac0d7015d449fa3d8280ab275
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignment 8
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MAS.630F15 Affective Computing Ethical Discussions
 uid: 22ac0d70-15d4-49fa-3d82-80ab2751bec8
 ---
 This is a file that contains information regarding affective computing ethical discussions.
-
