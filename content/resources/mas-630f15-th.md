@@ -5,6 +5,7 @@ description: Octavia, from the U.S. Navy Center for Applied Research, is a robot
   eyelids, and eyebrows. Sadness, anger, confusion, excitement, and boredom are a
   few of the emotions that Octavia can express. This image is in the public domain.
 file: /courses/mas-630-affective-computing-fall-2015/dafc18e0180957a8f3d4b4fffa35bcc5_mas-630f15-th.jpg
+file_size: 8013
 file_type: image/jpeg
 image_metadata:
   caption: Octavia, from the U.S. Navy Center for Applied Research, is a robot that
