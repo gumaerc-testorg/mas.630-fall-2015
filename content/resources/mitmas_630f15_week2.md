@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding affective computing
   week 2 - extra slides on EDA and arousal.
-file: /courses/mas-630-affective-computing-fall-2015/4d9896c3e3cf7c3e0f35eac6aa4d85db_MITMAS_630F15_Week2.pdf
+file: /ol-ocw-studio-app/courses/mas-630-affective-computing-fall-2015/4d9896c3e3cf7c3e0f35eac6aa4d85db_MITMAS_630F15_Week2.pdf
 file_size: 1750174
 file_type: application/pdf
 learning_resource_types:
