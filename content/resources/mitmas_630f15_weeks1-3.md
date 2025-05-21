@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding affective computing
   Weeks 1-3.
-file: /ol-ocw-studio-app/courses/mas-630-affective-computing-fall-2015/d12a5e328d127ead2771c212efeb1f14_MITMAS_630F15_Weeks1-3.pdf
+file: /courses/mas-630-affective-computing-fall-2015/d12a5e328d127ead2771c212efeb1f14_MITMAS_630F15_Weeks1-3.pdf
 file_size: 1083899
 file_type: application/pdf
 learning_resource_types:
