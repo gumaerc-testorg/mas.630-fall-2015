@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding affective computing
   ethical discussions.
-file: /courses/mas-630-affective-computing-fall-2015/22ac0d7015d449fa3d8280ab2751bec8_MITMAS_630F15_Ethical.pdf
+file: /ol-ocw-studio-app/courses/mas-630-affective-computing-fall-2015/22ac0d7015d449fa3d8280ab2751bec8_MITMAS_630F15_Ethical.pdf
 file_size: 176279
 file_type: application/pdf
 learning_resource_types:
