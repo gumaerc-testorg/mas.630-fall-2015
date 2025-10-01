@@ -14,4 +14,4 @@ uid: 12918cc4-e09a-772c-b8f0-c9ea6f5adbac
 
 Finally: Due Session 12, your final report (in PubPub or a .docx or .tex and .pdf of 4-7 pages)
 
-Aim for no more than 4 pages if you're a soloist and no more than 7 if you're on a project team. If not using [PubPub](http://www.pubpub.org/), then use a format for a conference of your choosing. For example, you could use the format for the Affective Computing and Intelligent Interaction Conference, which uses the [IEEE Computer Society Formatting](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
+Aim for no more than 4 pages if you're a soloist and no more than 7 if you're on a project team. If not using {{% resource_link "ba904467-19a8-47b7-af02-a68fbe55b9d5" "PubPub" %}}, then use a format for a conference of your choosing. For example, you could use the format for the Affective Computing and Intelligent Interaction Conference, which uses the {{% resource_link "200227b8-39fc-4627-b0a3-9a7c9ec369cb" "IEEE Computer Society Formatting" %}}.
