@@ -12,13 +12,13 @@ uid: 81a86953-ad1f-75ec-fbfa-25e2d46ae338
 ---
 ## Required Texts
 
-\[RP\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661157) Picard, R. W. *Affective Computing*. MIT Press, 2000. ISBN: 9780262661157. \[Preview with [Google Books](http://books.google.com/books?id=GaVncRTcb1gC&pg=PAfrontcover)\]
+\[RP\] = {{% resource_link "f3bf996b-c00c-41f4-a1c2-ab721c5a0618" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Picard, R. W. *Affective Computing*. MIT Press, 2000. ISBN: 9780262661157. \[Preview with {{% resource_link "4acbd375-1439-489d-a4f1-d40c391e4389" "Google Books" %}}\]
 
-\[RC\] = Calvo, R. A., S. K. D'Mello, J. Gratch, et al. *The Oxford Handbook of Affective Computing*. Oxford University Press, 2014. ISBN: 9780199942237. \[Preview with [Google Books](http://books.google.com/books?id=w6siBQAAQBAJ&pg=PAfrontcover)\]
+\[RC\] = Calvo, R. A., S. K. D'Mello, J. Gratch, et al. *The Oxford Handbook of Affective Computing*. Oxford University Press, 2014. ISBN: 9780199942237. \[Preview with {{% resource_link "30de4945-2fde-468d-8bba-ed8d8d41a1dd" "Google Books" %}}\]
 
 ## Optional Reading
 
-Elkins, Aaron, Stefanos Zafeiriou, Maja Pantic, et al. "Unobstrusive Deception Detection." In *The Oxford Handbook of Affective Computing*. Oxford University Press, 2014. ISBN: 9780199942237. \[Preview with [Google Books](http://books.google.com/books?id=w6siBQAAQBAJ&pg=PA503=onepage)\]
+Elkins, Aaron, Stefanos Zafeiriou, Maja Pantic, et al. "Unobstrusive Deception Detection." In *The Oxford Handbook of Affective Computing*. Oxford University Press, 2014. ISBN: 9780199942237. \[Preview with {{% resource_link "202f1960-6530-440a-84a3-4b73c7f8b669" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -42,7 +42,7 @@ Affect Recognition, Part 1
 
 \[RC\] Chapter 14.
 
-Picard, R. W., E. Vyzas, et al. ["Toward Machine Emotional Intelligence: Analysis of Affective Physiological State." (PDF)](http://vismod.media.mit.edu/pub/tech-reports/TR-536.pdf) *IEEE Transactions Pattern Analysis and Machine Intelligence* 23, no. 10 (2001): 1175–91. (Just read sections 1, 2, and 5 unless you're also interested in the machine learning details).
+Picard, R. W., E. Vyzas, et al. {{% resource_link "363e3778-bc36-4250-ad51-4508f1d03571" "\"Toward Machine Emotional Intelligence: Analysis of Affective Physiological State.\" (PDF)" %}} *IEEE Transactions Pattern Analysis and Machine Intelligence* 23, no. 10 (2001): 1175–91. (Just read sections 1, 2, and 5 unless you're also interested in the machine learning details).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -50,13 +50,13 @@ Picard, R. W., E. Vyzas, et al. ["Toward Machine Emotional Intelligence: Analysi
 Students Present on 2–3 "Rough Project Ideas"
 {{< tdclose >}}{{< tdopen >}}
 
-Isen, Daubman, and Nowicki. "[Positive Affect Facilitates Creative Problem Solving](http://dx.doi.org/10.1037/0022-3514.52.6.1122)." *Journal of Personality and Social Psychology* 52, no. 6 (1987): 1122–31.
+Isen, Daubman, and Nowicki. "{{% resource_link "209b95a0-83bb-458e-85e2-50f4daa27e00" "Positive Affect Facilitates Creative Problem Solving" %}}." *Journal of Personality and Social Psychology* 52, no. 6 (1987): 1122–31.
 
-Forgas, and Moylan. "[After the Movies: Transient Mood and Social Judgments](http://dx.doi.org/10.1177/0146167287134004)." *Personality and Social Psychology Bulletin* 13, no. 4 (1987): 467–77.
+Forgas, and Moylan. "{{% resource_link "fc120a8a-8a45-4474-8ced-46fd0176d42e" "After the Movies: Transient Mood and Social Judgments" %}}." *Personality and Social Psychology Bulletin* 13, no. 4 (1987): 467–77.
 
-Picard, and Liu. "[Relative Subjective Count and Assessment of Interruptive Technologies Applied to Mobile Monitoring of Stress](http://dx.doi.org/10.1016/j.ijhcs.2006.11.019)." *International Journal of Human-Computer Studies* 65, no. 4 (2007): 361–75.
+Picard, and Liu. "{{% resource_link "2daba6b4-f2e1-4600-95fa-92e24013c2f5" "Relative Subjective Count and Assessment of Interruptive Technologies Applied to Mobile Monitoring of Stress" %}}." *International Journal of Human-Computer Studies* 65, no. 4 (2007): 361–75.
 
-Larson, and Picard. ["The Aesthetics of Reading." (PDF)](http://affect.media.mit.edu/pdfs/05.larson-picard.pdf) *Human-Computer Interaction Consortium*, 2005.
+Larson, and Picard. {{% resource_link "9dc4650d-6d72-40b8-b624-bdfae1dd7492" "\"The Aesthetics of Reading.\" (PDF)" %}} *Human-Computer Interaction Consortium*, 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -64,13 +64,13 @@ Larson, and Picard. ["The Aesthetics of Reading." (PDF)](http://affect.media.mit
 Sensing Emotion Directly and Indirectly
 {{< tdclose >}}{{< tdopen >}}
 
-Klein, J., Y. Moon, et al. ["This Computer Responds to User Frustration." (PDF)](http://affect.media.mit.edu/pdfs/02.klein-moon-picard.pdf) *Interacting with Computers* 14, no. 2 (2002): 119–40.
+Klein, J., Y. Moon, et al. {{% resource_link "18facd7b-44db-4a3c-838e-8f1043f3558f" "\"This Computer Responds to User Frustration.\" (PDF)" %}} *Interacting with Computers* 14, no. 2 (2002): 119–40.
 
-Bickmore, and Picard. ["Towards Caring Machines." (PDF)](http://affect.media.mit.edu/pdfs/04.bickmore-picard-chi.pdf) *Proceedings of CHI*, 2004.
+Bickmore, and Picard. {{% resource_link "50bb819a-c528-466d-9a92-23919d0857c9" "\"Towards Caring Machines.\" (PDF)" %}} *Proceedings of CHI*, 2004.
 
-Vlahos, James. "[Barbie Wants to Get to Know your Child](http://www.nytimes.com/2015/09/20/magazine/barbie-wants-to-get-to-know-your-child.html?_r=1)." *New York Times Magazine*, September 2015.
+Vlahos, James. "{{% resource_link "7582226f-2789-4377-9e60-30ac0b133b1a" "Barbie Wants to Get to Know your Child" %}}." *New York Times Magazine*, September 2015.
 
-Bickmore, and Schulman. ["Practical Approaches to Comforting Users with Relational Agents." (PDF)](http://www.ccs.neu.edu/home/bickmore/publications/CHI07.pdf) *Proceedings of CHI*, 2007.
+Bickmore, and Schulman. {{% resource_link "481155e2-57c3-4508-be5e-4cf7751953db" "\"Practical Approaches to Comforting Users with Relational Agents.\" (PDF)" %}} *Proceedings of CHI*, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -78,7 +78,7 @@ Bickmore, and Schulman. ["Practical Approaches to Comforting Users with Relation
 Affective Technology Interaction & Empathy
 {{< tdclose >}}{{< tdopen >}}
 
-McDuff, Daniel, et al. ["Measuring Voter's Candidate Preference Based on Affective Responses to Election Debates."](https://dspace.mit.edu/handle/1721.1/92439) Affective Computing and Intelligent Interaction (ACII), Humaine Association Conference on IEEE, 2013.
+McDuff, Daniel, et al. {{% resource_link "aba32358-203b-4c5c-8e27-27a70a8fa444" "\"Measuring Voter's Candidate Preference Based on Affective Responses to Election Debates.\"" %}} Affective Computing and Intelligent Interaction (ACII), Humaine Association Conference on IEEE, 2013.
 
 \[RC\] Cohn, Jeffrey F., and Fernando De La Torre. "Automated Face Analysis for Affective Computing." Edited by Rafael Calvo, Sidney D'Mello, eds.
 
@@ -94,7 +94,7 @@ No assigned readings
 Project Presentations: Background and Design
 {{< tdclose >}}{{< tdopen >}}
 
-Blascovich, J., and W. B. Mendes. "Challenge and Threat Appraisals: The Role of Affective Cues." In *Feeling and Thinking: The Role of Affect in Social Cognition*. Edited by J. P. Forgas. Cambridge University Press, 2001, pp. 59–82. ISBN: 9780521011891. \[Preview with [Google Books](http://books.google.com/books?id=PSiU9wsJ13QC&pg=PA59=onepage)\]
+Blascovich, J., and W. B. Mendes. "Challenge and Threat Appraisals: The Role of Affective Cues." In *Feeling and Thinking: The Role of Affect in Social Cognition*. Edited by J. P. Forgas. Cambridge University Press, 2001, pp. 59–82. ISBN: 9780521011891. \[Preview with {{% resource_link "97965ab2-e6f8-41fb-b4e5-a43dcfbfcf59" "Google Books" %}}\]
 
 Hernandez, J., D. McDuff, X. Benvidas, et al. "AutoEmotive: Bringing Empathy to the Driving Experience to Manage Stress." In *Designing Interactive Systems: A Comprehensive Guide to HCI, UX & Interaction Design.* Trans-Atlantic Publications, 2013, pp. 53–56. ISBN: 9781447920113.
 
@@ -102,13 +102,13 @@ Hernandez, J., M. E. Hoque, W. Drevo, et al. "Mood Meter: Counting Smiles in the
 
 ### Optional Readings for Dr. Javier Hernandez's Talk
 
-Hernandez, Javier, Rob R. Morris, et al. ["Call Center Stress Recognition with Person-Specific Models." (PDF)](http://affect.media.mit.edu/pdfs/11.Hernandez-Morris-Picard-ACII.pdf)
+Hernandez, Javier, Rob R. Morris, et al. {{% resource_link "37cfff85-fcf6-47e8-a138-61eec8ba6ea8" "\"Call Center Stress Recognition with Person-Specific Models.\" (PDF)" %}}
 
-Hernandez, Javier, Yin Li, et al. "[BioGlass: Physiological Parameter Estimation Using a Head-mounted Wearable Device](http://dx.doi.org/10.4108/icst.mobihealth.2014.257219)."
+Hernandez, Javier, Yin Li, et al. "{{% resource_link "25793690-c656-415f-97ff-7800f7119f5d" "BioGlass: Physiological Parameter Estimation Using a Head-mounted Wearable Device" %}}."
 
 McEwen, B. S., and T. Seeman. "Stress and affect: Applicability of the concepts of allostasis and allostatic load." In *Handbook of Affective Sciences*. Edited by R. J. Davidson, K. R. Scherer and H. H. Goldsmith. Oxford University Press, 2002, pp. 1117-37. ISBN: 9780195126013.
 
-Morris, Dan, A. J. Bernheim Brush, et al. "[SuperBreak: Using Interactivity to Enhance Typing Breaks](http://dx.doi.org/10.1145/1357054.1357337)." *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (2008): 1817–26.
+Morris, Dan, A. J. Bernheim Brush, et al. "{{% resource_link "28f008ce-95a2-48c8-aed0-8df1394c52dc" "SuperBreak: Using Interactivity to Enhance Typing Breaks" %}}." *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (2008): 1817–26.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -122,7 +122,7 @@ Stress Recognition and Relief
 
 ### *Watch*
 
-[*I, Robot*](http://www.imdb.com/title/tt0343818/). Directed by Alex Proyas. Color, 115 min. 2004.
+{{% resource_link "0abfe283-2632-433a-859d-a804da2775d3" "*I, Robot*" %}}. Directed by Alex Proyas. Color, 115 min. 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
