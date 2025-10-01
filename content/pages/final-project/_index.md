@@ -15,11 +15,11 @@ You will be required to complete a project for the course. Initial project ideas
 COUHES for Class Projects (for MIT students)
 --------------------------------------------
 
-All projects that involve research on human participants must have the prior approval of the MIT [Committee on the Use of Humans as Experimental Subjects](https://couhes.mit.edu/) (COUHES). MIT students were also required to pass the "[CITI Certification](https://couhes.mit.edu/training-research-involving-human-subjects)".
+All projects that involve research on human participants must have the prior approval of the MIT {{% resource_link "9b8cf30a-b335-4bbf-b4b9-33288fcfbf26" "Committee on the Use of Humans as Experimental Subjects" %}} (COUHES). MIT students were also required to pass the "{{% resource_link "7f301343-5a50-48e6-8357-984c197409e0" "CITI Certification" %}}".
 
 Project Examples
 ----------------
 
-*   [Fall 2013](http://courses.media.mit.edu/2013fall/mas630/13.projects/finalprojects.html)
-*   [Fall 2011](http://courses.media.mit.edu/2011fall/mas630/11.projects/)
-*   [Spring 2005](http://courses.media.mit.edu/2005spring/mas630/05.projects/)
+*   {{% resource_link "5c3b588a-31af-4cfa-9ff0-f1f128048a88" "Fall 2013" %}}
+*   {{% resource_link "b17a9b40-8021-4021-b183-51bcf1792ff1" "Fall 2011" %}}
+*   {{% resource_link "d905ea18-3d90-4d6a-9196-2d362095f944" "Spring 2005" %}}
